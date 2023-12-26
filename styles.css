@@ -1,6 +1,6 @@
 body {
     font-family: Arial, sans-serif;
-    background: url('/photo.PNG') repeat; /* Замініть '/photo.jpg' на URL зображення або використайте 'background-color' для кольору */
+    background: url('//photo.png') repeat; /* Замініть '/photo.jpg' на URL зображення або використайте 'background-color' для кольору */
     display: flex;
     align-items: center;
     justify-content: center;
@@ -14,7 +14,7 @@ body {
 
 #qrcode {
     background-color: #ffffff;
-    box-shadow: 0 4px 8px rgba(251, 255, 9, 0.1);
+    box-shadow: 0 4px 8px rgba(236, 239, 16, 0.1);
     padding: 20px;
     border-radius: 8px;
     text-align: center;
